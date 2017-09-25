@@ -1,2 +1,5 @@
 # hello-world
-A test repository
+
+Hi there!
+Testing some branch in git!
+cheers
